@@ -4,3 +4,5 @@ Apples
 Oranges
 Cherries
 Strawberries
+Cereal
+Coffee
